@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @schepsys
-- 👀 I’m interested in all things
+- 👀 I’m interested in all things IT
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to learn it as a hobby
+- 💞️ I continuously embrace new knowledge
 - 📫 You can reach me at tgdragos@gmail.com
 - Release : https://github.com/schepsys/schepsys/releases/tag/v.1.0-beta.2.0
 <!---
